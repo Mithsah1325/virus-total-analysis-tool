@@ -1,0 +1,36 @@
+============================================================
+FILE ANALYSIS REPORT
+============================================================
+
+Scan Date: Tue Oct 14 19:25:27 2025
+File Path: C:\Users\miths\Downloads\virustotal\checkGreater.exe
+
+[FILE INFORMATION]
+  Name: checkGreater.exe
+  Size: 131688 bytes (0.13 MB)
+  Extension: .exe
+  Created: Tue Feb 18 22:01:52 2025
+  Modified: Tue Feb 18 22:01:52 2025
+
+[HASHES]
+  MD5: 5de0324ca052ebca9055fa48d4a8fc88
+  SHA1: 59b0739831212149cb0d95306968a8cccddc5088
+  SHA256: e01d333465f93c2a1e611efaf49b2c80f5f420b3ceb1272ba128f49d936cc615
+
+[ENTROPY]
+  5.15
+
+[SUSPICIOUS STRINGS]
+  exec
+  system
+[SUSPICIOUS PATTERNS]
+  Process Operations: 3
+
+[VIRUSTOTAL RESULTS]
+  Malicious: 0
+  Suspicious: 0
+  Undetected: 0
+
+[RISK ASSESSMENT]
+  Score: 26/100
+  Level: MEDIUM
